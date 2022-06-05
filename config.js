@@ -20,15 +20,15 @@ global.APIKeys = {
 // Ganti apikey lolhuman dan imgbbkey punya lu
 global.LolApiKey = 'hc8fyhce33ncq34uif'
 global.Imgbb = '7b2fde1f55b9a594d5db403f0a0c2712'
-global.owner = ['6282337245566']
-global.premium = ['6282337245566']
-global.packname = 'BunnyWalker'
-global.author = 'Bot'
+global.owner = ['6283867149253','6285713822876','6287878528616','62895802600692','6285875531636','6285803313083']
+global.premium = ['6283867149253','6285713822876','6287878528616','62895802600692','6285875531636','6285803313083']
+global.packname = ' '
+global.author = ' '
 global.sessionName = 'hisoka'
 global.prefa = ['!','.']
 global.sp = '⭔'
 // Ganti grup WA lu kalo pengen
-global.gwa = 'https://chat.whatsapp.com/LyPlkhIyMwPLnAM43nBCYR'
+global.gwa = 'https://chat.whatsapp.com/EJgLF3zHijIFrG1QQIX3Yl'
 global.mess = {
     success: '✓ Success',
     admin: 'Fitur Khusus Admin Group!',
